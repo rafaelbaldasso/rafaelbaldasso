@@ -1,6 +1,6 @@
 ### Hey there!
 - I'm always trying to make cybersecurity/ethical hacking/pentesting easier, better and more organized
-- My CTF writeups (Hack The Box, TryHackMe) and cybersecurity tutorials (red/blue team) are at my site: https://kothmun.gitbook.io
+- My CTF writeups (Hack The Box, TryHackMe) and cybersecurity resources are at my webpage: https://kothmun.gitbook.io
 - [**Tools**](https://github.com/Kothmun/Tools) - some of my tools/scripts (sh, py, ps1, c)
 - [**Python**](https://github.com/Kothmun/Python) - my Python study materials/projects
 
