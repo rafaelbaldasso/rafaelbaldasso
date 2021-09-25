@@ -5,7 +5,7 @@
 I'm Rafael Baldasso, and I'm currently working on improving my coding and pentesting skills, so here are some of my projects!
 - I'll be moving my CTF Writeups (HTB/THM) to my profile real soon.
 - [**Tools**](https://github.com/Kothmun/Tools) - some of my tools/scripts to automate simple tasks (sh, py, ps1, c).
-- [**Pentesting_Tools_List**](https://github.com/Kothmun/Pentesting-Resources) - my curated list of pentesting tools, frameworks, checklists, etc.
+- [**Cybersecurity Resources**](https://github.com/Kothmun/Cybersecurity-Resources) - my curated list of cybersecurity tools, frameworks, checklists, etc.
 - [**Python**](https://github.com/Kothmun/Python) - my Python study materials/projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbaldasso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
