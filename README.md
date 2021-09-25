@@ -2,7 +2,7 @@
 
 <img src="https://i.gifer.com/origin/a1/a19978b49316d96905ac7ae947aba9a9.gif" width="100">
 
-I'm Rafael Baldasso, and I'm currently working on improving my coding and pentesting skills, so here are some of my side projects!
+I'm Rafael Baldasso, and I'm currently working on improving my coding and pentesting skills, so here are some of my projects!
 - I'll be moving my CTF Writeups (HTB/THM) to my profile real soon.
 - [**Tools**](https://github.com/Kothmun/Tools) - some of my tools/scripts to automate simple tasks (sh, py, ps1, c).
 - [**Pentesting_Tools_List**](https://github.com/Kothmun/Pentesting-Resources) - my curated list of pentesting tools, frameworks, checklists, etc.
