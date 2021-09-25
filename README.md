@@ -1,4 +1,4 @@
-### Hey there!
+### ./hey_there!
 
 <img src="https://i.gifer.com/origin/a1/a19978b49316d96905ac7ae947aba9a9.gif" width="100">
 
@@ -12,4 +12,4 @@ I'm Rafael Baldasso, and I'm currently working on improving my coding and pentes
 
 ---
 <img src="https://img.itch.io/aW1hZ2UvNjUzODcvMjk1NzgxLmdpZg==/315x250%23c/hvApFE.gif" width="100">
-<a href="https://www.linkedin.com/in/rafaelbaldasso/" target="_blank"><strong>Linkedin</strong></a> | <a href="https://twitter.com/rafaelbaldasso" target="_blank"><strong>Twitter</strong></a> | <a href="https://app.hackthebox.eu/profile/430331" target="_blank"><strong>HackTheBox</strong></a> | <a href="https://tryhackme.com/p/Kothmun" target="_blank"><strong>TryHackMe</strong></a></p>
+My profiles: <a href="https://www.linkedin.com/in/rafaelbaldasso/" target="_blank"><strong>Linkedin</strong></a> | <a href="https://twitter.com/rafaelbaldasso" target="_blank"><strong>Twitter</strong></a> | <a href="https://app.hackthebox.eu/profile/430331" target="_blank"><strong>HackTheBox</strong></a> | <a href="https://tryhackme.com/p/Kothmun" target="_blank"><strong>TryHackMe</strong></a></p>
