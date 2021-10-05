@@ -6,8 +6,8 @@ I'm Rafael, and I'm currently working on improving my coding and pentesting skil
 
 **~** [**Cybersecurity Resources**](https://github.com/rafaelbaldasso/Cybersecurity-Resources) - my curated list of cybersecurity tools, frameworks, checklists, etc  
 **~** [**Tools**](https://github.com/rafaelbaldasso/Tools) - some of my tools/scripts to automate simple tasks (sh, py, ps1, c)  
-**~** [**CTF-Writeups**](https://github.com/rafaelbaldasso/CTF-Writeups) - my CTF Writeups (HTB/THM)  
-**~** [**Code Learning Projects**](https://github.com/rafaelbaldasso/Code-Learning-Projects) - my Python study materials/projects  
+**~** [**CTF Writeups**](https://github.com/rafaelbaldasso/CTF-Writeups) - my CTF Writeups (HTB/THM)  
+**~** [**Code Learning Projects**](https://github.com/rafaelbaldasso/Code-Learning-Projects) - Python, Django, C, PHP, JS...  
 **~** [**Pentesting Notes**](https://github.com/rafaelbaldasso/Pentesting-Notes) - my pentesting notes / quick-reference guides  
 
 <!---
