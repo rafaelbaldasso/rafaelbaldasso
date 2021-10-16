@@ -14,6 +14,8 @@ I'm Rafael, and I'm currently working on improving my coding and pentesting skil
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbaldasso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---!>
 
-<a href="https://app.hackthebox.eu/profile/430331" target="_blank"><img src="https://www.hackthebox.eu/badge/image/430331"></img></a>
+<a href="https://app.hackthebox.eu/profile/430331" target="_blank"><img src="https://www.hackthebox.eu/badge/image/430331"></img></a> 
+<!--- &nbsp;  <a href="https://tryhackme.com/p/RafaelBaldasso" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/RafaelBaldasso.png"></img></a>
+---!>
 <br/><br/>
-<a href="https://www.linkedin.com/in/rafaelbaldasso/" target="_blank"><img src="linkedin_logo.png" width="28"></img></a> &nbsp; <a href="https://twitter.com/rafaelbaldasso" target="_blank"><img src="twitter_logo.png" width="26"></img></a>  
+<a href="https://www.linkedin.com/in/rafaelbaldasso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> &nbsp; <a href="https://twitter.com/rafaelbaldasso" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>  
