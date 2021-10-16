@@ -16,4 +16,4 @@ I'm Rafael, and I'm currently working on improving my coding and pentesting skil
 
 <a href="https://app.hackthebox.eu/profile/430331" target="_blank"><img src="https://www.hackthebox.eu/badge/image/430331"></img></a>
 <br/><br/>
-<a href="https://www.linkedin.com/in/rafaelbaldasso/" target="_blank"><img src="https://www.freepnglogos.com/uploads/linkedin-symbol-logo-22.png" width="28"></img></a> &nbsp; <a href="https://twitter.com/rafaelbaldasso" target="_blank"><img src="https://aux2.iconspalace.com/uploads/twitter-round-icon-256.png" width="26"></img></a>  
+<a href="https://www.linkedin.com/in/rafaelbaldasso/" target="_blank"><img src="linkedin_logo.png" width="28"></img></a> &nbsp; <a href="https://twitter.com/rafaelbaldasso" target="_blank"><img src="twitter_logo.png" width="26"></img></a>  
