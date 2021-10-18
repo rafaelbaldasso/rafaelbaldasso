@@ -1,6 +1,6 @@
 ### ./hey_there!
 
-<img src="https://i.gifer.com/origin/a1/a19978b49316d96905ac7ae947aba9a9.gif" width="100">
+<img src="gifgh.gif" width="100">
 
 **#** I'm Rafael, a Red Teamer, and I'm currently working on improving my coding and pentesting skills! **#**  
 
