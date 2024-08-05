@@ -1,6 +1,6 @@
 ### ./hey_there!
 
-► Pentester & Red Teamer  
+► Pentester & Red Teamer | Cyber Threat Intelligence (CTI) & OSINT  
 ► CEH | eJPT | ISFS  
 
 ● Web Applications & API  
