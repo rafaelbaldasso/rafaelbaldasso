@@ -3,7 +3,7 @@
 ► Pentester & Red Teamer | Cyber Threat Intelligence (CTI) & OSINT  
 ► CEH | eJPT | ISFS  
 
-● Web Applications & API  
+● Web Applications & APIs  
 ● Linux, Windows, Active Directory (AD), Network Devices  
 ● Android & iOS
 <!-- Wireless -->  
