@@ -3,13 +3,14 @@
 ► Pentester & Red Teamer  
 ► CEH | eJPT | ISFS  
 
-\# Specializing in Network Pentests / Attack Simulation (focus on Active Directory)  
-\# Cloud Pentests (AWS, GCP, Azure) on the roadmap  
+\# Currently specializing in Network Pentests / Attack Simulation (with focus on Active Directory) - this is my area of choice to become a specialist  
+\# Next up, I want to improve my stealth and bypass techniques, including C2  
+\# Cloud Pentests (AWS, GCP, Azure) on the roadmap too  
 
+Pentest and Cybersecurity knowledge:  
 ● Linux, Windows, Active Directory (AD), Network Devices  
 ● Web Applications & APIs  
 ● Android & iOS  
-● Phishing Campaigns  
 ● Open-source Intelligence (OSINT)  
-  
-![](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
+● Cyber Threat Intelligence (CTI)  
+● Phishing Campaigns  
