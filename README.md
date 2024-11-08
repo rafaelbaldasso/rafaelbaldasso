@@ -3,8 +3,11 @@
 ► Pentester & Red Teamer  
 ► CEH | eJPT | ISFS  
 
-● Web Applications & APIs  
+\# Specializing in Network Pentests / Attack Simulation (focus on Active Directory)  
+\# Cloud Pentests (AWS, GCP, Azure) on the roadmap  
+
 ● Linux, Windows, Active Directory (AD), Network Devices  
+● Web Applications & APIs  
 ● Android & iOS  
 ● Phishing Campaigns  
 ● Open-source Intelligence (OSINT)  
