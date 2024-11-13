@@ -3,7 +3,7 @@
 ► Pentester & Red Teamer  
 ► CEH | eJPT | ISFS  
 
-\# Currently focusing in Network (Active Directory) Pentests / Attack Simulation - this is my area of choice to become a specialist  
+\# Currently focusing in Network Pentests (Active Directory) / Attack Simulation - this is my area of choice to become a specialist  
 \# Next up, I want to improve my stealth and bypassing techniques, including C2  
 \# Cloud Pentests (AWS, GCP, Azure) on the roadmap too  
 
