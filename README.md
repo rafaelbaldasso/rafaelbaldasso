@@ -5,10 +5,10 @@
 ► CVE-2024-41502, CVE-2024-41503, CVE-2024-41504, CVE-2024-41505  
 
 Pentest and Cybersecurity knowledge:  
-● Cloud (AWS, GCP, Azure) [current focus]  
-● Linux, Windows, Active Directory (AD), Network Devices  
 ● Web Applications & APIs  
+● Linux, Windows, Active Directory (AD), Network Devices  
 ● Android & iOS  
+● Cloud (AWS, GCP, Azure) [soon]  
 ● Open-source Intelligence (OSINT)  
 ● Cyber Threat Intelligence (CTI)  
 ● Phishing Campaigns  
