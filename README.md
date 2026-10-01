@@ -8,7 +8,7 @@ Pentest and Cybersecurity knowledge:
 ● Web Applications & APIs  
 ● Linux, Windows, Active Directory (AD), Network Devices  
 ● Android & iOS  
-● Cloud (AWS, GCP, Azure) [soon]  
+● Cloud (AWS, GCP, Azure)  
 ● Open-source Intelligence (OSINT)  
 ● Cyber Threat Intelligence (CTI)  
 ● Phishing Campaigns  
